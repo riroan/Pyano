@@ -1,0 +1,6 @@
+# sample audio
+/sample
+*.wav
+
+# python virtual environment
+/pyano
